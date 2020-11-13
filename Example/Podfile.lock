@@ -1,0 +1,16 @@
+PODS:
+  - PMReformerKeysKit (0.1.0)
+
+DEPENDENCIES:
+  - PMReformerKeysKit (from `../`)
+
+EXTERNAL SOURCES:
+  PMReformerKeysKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PMReformerKeysKit: 0ee8f2fb78e80bc83be27b3554a925e369ce7899
+
+PODFILE CHECKSUM: 878d947efad30071bd30ffe647680f156301a128
+
+COCOAPODS: 1.9.0
